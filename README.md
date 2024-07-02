@@ -50,7 +50,7 @@ chmod +x create_users.sh
 3. Execute the script with the user file as an argument:
 
 ```
-sudo ./user_creation.sh /path/to/users_list.txt
+sudo ./create_users.sh /path/to/users_list.txt
 ```
 
 ### Script Details
